@@ -4,7 +4,7 @@ A modern restaurant website showcasing the menu, gallery, reservations, and cont
 
 ## 🌐 English Version
 
-### 🚀 Features
+### Features
 - **Single Page Navigation (SPA)** – Smooth section switching without page reload  
 - **Multilingual Support** – English & French content with language switcher  
 - **Responsive Design** – Works seamlessly on desktop and mobile  
@@ -25,7 +25,7 @@ A modern restaurant website showcasing the menu, gallery, reservations, and cont
 
 ## 🌐 Version Française
 
-### 🚀 Fonctionnalités
+### Fonctionnalités
 - **Navigation SPA** – Changement de section sans recharger la page  
 - **Support Multilingue** – Contenu en anglais et français avec sélecteur de langue  
 - **Design Responsive** – Compatible desktop et mobile  
